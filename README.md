@@ -23,6 +23,4 @@ SSAFY 9th (23.01 ~ )
 
 
 ## :heavy_check_mark:Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HHongmoris&show_icons=true&theme=flag-india)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HHongmoris&layout=compact)
