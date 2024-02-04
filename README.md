@@ -2,7 +2,7 @@
 
 # :grinning: Sungmin-Hong
 
-SSAFY 9th (23.01 ~ )
+SSAFY 9th (23.01 ~ 23.12)
 
 :fire:I can do it!!! 
 
